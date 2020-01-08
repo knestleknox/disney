@@ -17,7 +17,7 @@ Some things I want to do:
 * And many more...
 
 Anyway, so far, I haven't seen *damning* evidence of fraud. But there are definetly some anomalies in the review data.
-For instance, I have uncovered that 5-star reviews *do* use less unique language. However, we can't rule out the possibility
+For instance, I have uncovered that 5-star reviews *do* use less unique language and use much shorter sentences on average. However, we can't rule out the possibility
 that people who are satisfied are succinct and people who are not (1,2,3-star reviewers) are more verbose about their gripes. 
 
 I'll pick this back up over the next couple of days so stay tuned.
